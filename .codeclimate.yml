@@ -1,0 +1,7 @@
+languages:
+  Ruby: false
+  Javascript: true
+  Python: false
+  PHP: true
+exclude_paths:
+- app/SymfonyRequirements.php
